@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ESS-EC/exercicio-tdd-igormp.svg?branch=master)](https://travis-ci.org/ESS-EC/exercicio-tdd-igormp)
+
 # Visão geral
 
 Projeto em Node.js para exercitar o conceito de test cases, inspirado no exemplo do livro "The Art of Software Testing", combinado com TDD.
